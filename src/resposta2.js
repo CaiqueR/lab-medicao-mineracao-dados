@@ -1,3 +1,4 @@
+/* eslint-disable no-return-await */
 /* eslint-disable comma-dangle */
 /* eslint-disable no-await-in-loop */
 const { GraphQLClient, gql } = require("graphql-request");
@@ -20,15 +21,15 @@ async function resposta2() {
   const variables = {
     nextPage: null,
   };
-  while (hasPageToContinue && repos.length < 1000) {
+  while (hasPageToContinue && repos.length < 100) {
     const data = await graphQLClient.request(
       gql`
         query getRepos($nextPage: String) {
           search(
             type: REPOSITORY
             query: "stars:>10000"
-            first: 5
-            after: $nextPage
+            first: 15
+            before: $nextPage
           ) {
             pageInfo {
               endCursor
@@ -53,7 +54,6 @@ async function resposta2() {
       `,
       variables
     );
-
     const {
       search: {
         pageInfo: { endCursor, hasNextPage },

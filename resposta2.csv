@@ -1,0 +1,2000 @@
+nameWithOwner,stargazers,pullRequests,mergeCommitAllowed
+
+freeCodeCamp/freeCodeCamp,{'totalCount': 314707},{'totalCount': 13121},False
+996icu/996.ICU,{'totalCount': 251588},{'totalCount': 1020},True
+
+vuejs/vue,{'totalCount': 172040},{'totalCount': 974},False
+
+EbookFoundation/free-programming-books,{'totalCount': 159510},{'totalCount': 2576},False
+
+facebook/react,{'totalCount': 155904},{'totalCount': 7027},False
+
+tensorflow/tensorflow,{'totalCount': 148398},{'totalCount': 10453},True
+
+twbs/bootstrap,{'totalCount': 144100},{'totalCount': 6037},True
+
+sindresorhus/awesome,{'totalCount': 140918},{'totalCount': 493},False
+
+jwasham/coding-interview-university,{'totalCount': 134624},{'totalCount': 183},True
+
+getify/You-Dont-Know-JS,{'totalCount': 127392},{'totalCount': 349},True
+
+kamranahmedse/developer-roadmap,{'totalCount': 125617},{'totalCount': 57},True
+
+ohmyzsh/ohmyzsh,{'totalCount': 116204},{'totalCount': 2308},True
+
+CyC2018/CS-Notes,{'totalCount': 110970},{'totalCount': 361},True
+
+github/gitignore,{'totalCount': 107834},{'totalCount': 1414},True
+
+donnemartin/system-design-primer,{'totalCount': 106806},{'totalCount': 183},True
+
+microsoft/vscode,{'totalCount': 103210},{'totalCount': 5655},True
+
+flutter/flutter,{'totalCount': 101416},{'totalCount': 16347},False
+
+airbnb/javascript,{'totalCount': 99654},{'totalCount': 740},True
+
+torvalds/linux,{'totalCount': 97452},{'totalCount': 9},True
+
+public-apis/public-apis,{'totalCount': 96232},{'totalCount': 785},True
+
+d3/d3,{'totalCount': 93693},{'totalCount': 435},True
+
+jackfrued/Python-100-Days,{'totalCount': 92648},{'totalCount': 12},True
+
+facebook/react-native,{'totalCount': 90098},{'totalCount': 614},True
+
+Snailclimb/JavaGuide,{'totalCount': 88060},{'totalCount': 321},True
+
+vinta/awesome-python,{'totalCount': 86637},{'totalCount': 504},True
+
+electron/electron,{'totalCount': 85784},{'totalCount': 10004},False
+
+TheAlgorithms/Python,{'totalCount': 85478},{'totalCount': 1147},False
+
+danistefanovic/build-your-own-x,{'totalCount': 82262},{'totalCount': 82},True
+
+facebook/create-react-app,{'totalCount': 81869},{'totalCount': 1799},True
+
+trekhleb/javascript-algorithms,{'totalCount': 80898},{'totalCount': 156},True
+
+jlevy/the-art-of-command-line,{'totalCount': 80318},{'totalCount': 303},True
+
+axios/axios,{'totalCount': 76995},{'totalCount': 351},False
+
+golang/go,{'totalCount': 76543},{'totalCount': 0},True
+
+nodejs/node,{'totalCount': 72979},{'totalCount': 2487},False
+
+ytdl-org/youtube-dl,{'totalCount': 70774},{'totalCount': 1427},True
+
+kubernetes/kubernetes,{'totalCount': 70036},{'totalCount': 44444},True
+
+justjavac/free-programming-books-zh_CN,{'totalCount': 69838},{'totalCount': 268},True
+
+animate-css/animate.css,{'totalCount': 67879},{'totalCount': 168},True
+
+microsoft/terminal,{'totalCount': 67845},{'totalCount': 1350},False
+
+denoland/deno,{'totalCount': 67317},{'totalCount': 3361},False
+
+tensorflow/models,{'totalCount': 66100},{'totalCount': 2090},False
+
+angular/angular,{'totalCount': 65979},{'totalCount': 2921},False
+
+ossu/computer-science,{'totalCount': 65746},{'totalCount': 169},True
+
+puppeteer/puppeteer,{'totalCount': 65116},{'totalCount': 1702},False
+
+microsoft/TypeScript,{'totalCount': 64323},{'totalCount': 9877},True
+
+FortAwesome/Font-Awesome,{'totalCount': 63904},{'totalCount': 179},True
+
+mrdoob/three.js,{'totalCount': 63404},{'totalCount': 7579},True
+
+ant-design/ant-design,{'totalCount': 63357},{'totalCount': 6290},True
+
+labuladong/fucking-algorithm,{'totalCount': 61786},{'totalCount': 118},True
+
+30-seconds/30-seconds-of-code,{'totalCount': 61735},{'totalCount': 668},True
+
+laravel/laravel,{'totalCount': 61446},{'totalCount': 1251},True
+
+mui-org/material-ui,{'totalCount': 60981},{'totalCount': 8698},False
+
+iluwatar/java-design-patterns,{'totalCount': 60545},{'totalCount': 624},True
+
+PanJiaChen/vue-element-admin,{'totalCount': 59757},{'totalCount': 313},True
+
+angular/angular.js,{'totalCount': 59509},{'totalCount': 783},False
+
+MisterBooo/LeetCodeAnimation,{'totalCount': 59214},{'totalCount': 61},True
+
+moby/moby,{'totalCount': 58051},{'totalCount': 16427},True
+
+avelino/awesome-go,{'totalCount': 57443},{'totalCount': 2181},False
+
+vuejs/awesome-vue,{'totalCount': 56354},{'totalCount': 2948},True
+
+webpack/webpack,{'totalCount': 55595},{'totalCount': 3109},True
+
+nvbn/thefuck,{'totalCount': 55476},{'totalCount': 416},True
+
+reduxjs/redux,{'totalCount': 54296},{'totalCount': 1325},True
+
+jquery/jquery,{'totalCount': 53962},{'totalCount': 488},False
+
+apple/swift,{'totalCount': 53459},{'totalCount': 29667},True
+
+storybookjs/storybook,{'totalCount': 53439},{'totalCount': 4779},True
+
+vercel/next.js,{'totalCount': 53235},{'totalCount': 5289},False
+
+hakimel/reveal.js,{'totalCount': 53081},{'totalCount': 338},True
+
+atom/atom,{'totalCount': 52991},{'totalCount': 3633},True
+
+goldbergyoni/nodebestpractices,{'totalCount': 52386},{'totalCount': 462},True
+
+pallets/flask,{'totalCount': 52011},{'totalCount': 1077},True
+
+django/django,{'totalCount': 51974},{'totalCount': 5878},False
+
+elastic/elasticsearch,{'totalCount': 51034},{'totalCount': 30785},False
+
+socketio/socket.io,{'totalCount': 50669},{'totalCount': 376},True
+
+tonsky/FiraCode,{'totalCount': 50536},{'totalCount': 94},False
+
+spring-projects/spring-boot,{'totalCount': 50495},{'totalCount': 41},True
+
+shadowsocks/shadowsocks-windows,{'totalCount': 50435},{'totalCount': 221},True
+
+chartjs/Chart.js,{'totalCount': 50277},{'totalCount': 1731},False
+
+expressjs/express,{'totalCount': 50102},{'totalCount': 210},False
+
+keras-team/keras,{'totalCount': 49739},{'totalCount': 2403},False
+
+typicode/json-server,{'totalCount': 49520},{'totalCount': 92},True
+
+chrislgarry/Apollo-11,{'totalCount': 49005},{'totalCount': 245},True
+
+Semantic-Org/Semantic-UI,{'totalCount': 48450},{'totalCount': 351},True
+
+awesome-selfhosted/awesome-selfhosted,{'totalCount': 48439},{'totalCount': 1358},True
+
+netdata/netdata,{'totalCount': 48388},{'totalCount': 3690},False
+
+opencv/opencv,{'totalCount': 48281},{'totalCount': 8948},True
+
+rust-lang/rust,{'totalCount': 48238},{'totalCount': 30369},True
+
+adam-p/markdown-here,{'totalCount': 48202},{'totalCount': 20},True
+
+httpie/httpie,{'totalCount': 48062},{'totalCount': 128},True
+
+kdn251/interviews,{'totalCount': 47653},{'totalCount': 42},True
+
+xingshaocheng/architect-awesome,{'totalCount': 47415},{'totalCount': 49},True
+
+doocs/advanced-java,{'totalCount': 47291},{'totalCount': 56},True
+
+ElemeFE/element,{'totalCount': 47241},{'totalCount': 3063},True
+
+gatsbyjs/gatsby,{'totalCount': 46878},{'totalCount': 12826},False
+
+gothinkster/realworld,{'totalCount': 46790},{'totalCount': 133},True
+
+h5bp/html5-boilerplate,{'totalCount': 46759},{'totalCount': 391},True
+
+gohugoio/hugo,{'totalCount': 46629},{'totalCount': 1181},False
+
+josephmisiti/awesome-machine-learning,{'totalCount': 46515},{'totalCount': 608},True
+
+lodash/lodash,{'totalCount': 46494},{'totalCount': 569},False
+
+rails/rails,{'totalCount': 46405},{'totalCount': 17218},True
+
+resume/resume.github.com,{'totalCount': 46149},{'totalCount': 84},True
+
+h5bp/Front-end-Developer-Interview-Questions,{'totalCount': 46027},{'totalCount': 334},False
+
+redis/redis,{'totalCount': 45180},{'totalCount': 1276},True
+
+bitcoin/bitcoin,{'totalCount': 45126},{'totalCount': 9248},True
+
+yangshun/tech-interview-handbook,{'totalCount': 44876},{'totalCount': 118},False
+
+moment/moment,{'totalCount': 44751},{'totalCount': 693},False
+
+ansible/ansible,{'totalCount': 44747},{'totalCount': 32066},False
+
+nvm-sh/nvm,{'totalCount': 44046},{'totalCount': 567},True
+
+protocolbuffers/protobuf,{'totalCount': 43720},{'totalCount': 2735},True
+
+psf/requests,{'totalCount': 43513},{'totalCount': 1346},True
+
+ReactiveX/RxJava,{'totalCount': 43431},{'totalCount': 2897},True
+
+kelseyhightower/nocode,{'totalCount': 43425},{'totalCount': 1},True
+
+papers-we-love/papers-we-love,{'totalCount': 42979},{'totalCount': 381},False
+
+apache/incubator-echarts,{'totalCount': 42861},{'totalCount': 546},True
+
+thedaviddias/Front-End-Checklist,{'totalCount': 42803},{'totalCount': 155},False
+
+mtdvio/every-programmer-should-know,{'totalCount': 42601},{'totalCount': 83},True
+
+scikit-learn/scikit-learn,{'totalCount': 42284},{'totalCount': 6746},False
+
+meteor/meteor,{'totalCount': 41943},{'totalCount': 1237},True
+
+pytorch/pytorch,{'totalCount': 41813},{'totalCount': 4202},False
+
+ionic-team/ionic-framework,{'totalCount': 41744},{'totalCount': 2489},False
+
+gin-gonic/gin,{'totalCount': 41662},{'totalCount': 645},False
+
+ReactTraining/react-router,{'totalCount': 41638},{'totalCount': 1179},True
+
+jekyll/jekyll,{'totalCount': 41242},{'totalCount': 2814},True
+
+jgthms/bulma,{'totalCount': 41121},{'totalCount': 526},True
+
+google/material-design-icons,{'totalCount': 40984},{'totalCount': 28},True
+
+macrozheng/mall,{'totalCount': 40941},{'totalCount': 0},True
+
+awesomedata/awesome-public-datasets,{'totalCount': 40931},{'totalCount': 187},False
+
+scutan90/DeepLearning-500-questions,{'totalCount': 40712},{'totalCount': 297},True
+
+necolas/normalize.css,{'totalCount': 40549},{'totalCount': 56},True
+
+Hack-with-Github/Awesome-Hacking,{'totalCount': 40539},{'totalCount': 21},True
+
+NARKOZ/hacker-scripts,{'totalCount': 39408},{'totalCount': 62},True
+
+spring-projects/spring-framework,{'totalCount': 39239},{'totalCount': 586},True
+
+ryanmcdermott/clean-code-javascript,{'totalCount': 39151},{'totalCount': 141},True
+
+jaywcjlove/awesome-mac,{'totalCount': 39117},{'totalCount': 484},True
+
+enaqx/awesome-react,{'totalCount': 39041},{'totalCount': 704},False
+
+fatedier/frp,{'totalCount': 39025},{'totalCount': 259},True
+
+yarnpkg/yarn,{'totalCount': 38979},{'totalCount': 1651},False
+
+aymericdamien/TensorFlow-Examples,{'totalCount': 38800},{'totalCount': 84},True
+
+wasabeef/awesome-android-ui,{'totalCount': 38768},{'totalCount': 60},True
+
+google/guava,{'totalCount': 38748},{'totalCount': 248},False
+
+ripienaar/free-for-dev,{'totalCount': 38577},{'totalCount': 1220},True
+
+neovim/neovim,{'totalCount': 38504},{'totalCount': 4438},True
+
+scrapy/scrapy,{'totalCount': 38276},{'totalCount': 1574},True
+
+square/okhttp,{'totalCount': 38216},{'totalCount': 2449},False
+
+sindresorhus/awesome-nodejs,{'totalCount': 38040},{'totalCount': 359},False
+
+Dogfalo/materialize,{'totalCount': 37999},{'totalCount': 449},True
+
+minimaxir/big-list-of-naughty-strings,{'totalCount': 37959},{'totalCount': 89},True
+
+prettier/prettier,{'totalCount': 37678},{'totalCount': 3891},False
+
+babel/babel,{'totalCount': 37412},{'totalCount': 3601},False
+
+serverless/serverless,{'totalCount': 37371},{'totalCount': 2944},False
+
+android/architecture-samples,{'totalCount': 37322},{'totalCount': 172},True
+
+Genymobile/scrcpy,{'totalCount': 37309},{'totalCount': 23},True
+
+tuvtran/project-based-learning,{'totalCount': 37221},{'totalCount': 125},True
+
+nwjs/nw.js,{'totalCount': 37205},{'totalCount': 561},True
+
+grafana/grafana,{'totalCount': 37176},{'totalCount': 8278},False
+
+microsoft/PowerToys,{'totalCount': 37039},{'totalCount': 1461},True
+
+sveltejs/svelte,{'totalCount': 36994},{'totalCount': 1802},False
+
+juliangarnier/anime,{'totalCount': 36761},{'totalCount': 66},True
+
+FreeCodeCampChina/freecodecamp.cn,{'totalCount': 36760},{'totalCount': 55},True
+
+parcel-bundler/parcel,{'totalCount': 36684},{'totalCount': 1298},False
+
+square/retrofit,{'totalCount': 36546},{'totalCount': 714},True
+
+azl397985856/leetcode,{'totalCount': 36406},{'totalCount': 188},True
+
+tesseract-ocr/tesseract,{'totalCount': 36341},{'totalCount': 1034},True
+
+ageitgey/face_recognition,{'totalCount': 36226},{'totalCount': 75},True
+
+ColorlibHQ/AdminLTE,{'totalCount': 36131},{'totalCount': 426},True
+
+ziishaned/learn-regex,{'totalCount': 36092},{'totalCount': 104},True
+
+MaximAbramchuck/awesome-interview-questions,{'totalCount': 36082},{'totalCount': 138},True
+
+impress/impress.js,{'totalCount': 35874},{'totalCount': 93},False
+
+vsouza/awesome-ios,{'totalCount': 35649},{'totalCount': 2125},True
+
+astaxie/build-web-application-with-golang,{'totalCount': 35615},{'totalCount': 730},True
+
+x64dbg/x64dbg,{'totalCount': 35556},{'totalCount': 462},True
+
+home-assistant/core,{'totalCount': 35462},{'totalCount': 19571},False
+
+gogs/gogs,{'totalCount': 35387},{'totalCount': 1124},False
+
+nodejs/node-v0.x-archive,{'totalCount': 35055},{'totalCount': 218},True
+
+cdr/code-server,{'totalCount': 34964},{'totalCount': 250},True
+
+v2ray/v2ray-core,{'totalCount': 34952},{'totalCount': 197},True
+
+soimort/you-get,{'totalCount': 34946},{'totalCount': 515},True
+
+prakhar1989/awesome-courses,{'totalCount': 34907},{'totalCount': 183},True
+
+TryGhost/Ghost,{'totalCount': 34859},{'totalCount': 4926},False
+
+bailicangdu/vue2-elm,{'totalCount': 34410},{'totalCount': 20},True
+
+Alamofire/Alamofire,{'totalCount': 34344},{'totalCount': 465},False
+
+vercel/hyper,{'totalCount': 34112},{'totalCount': 1404},False
+
+git/git,{'totalCount': 34094},{'totalCount': 2},True
+
+k88hudson/git-flight-rules,{'totalCount': 33868},{'totalCount': 200},True
+
+sdmg15/Best-websites-a-programmer-should-visit,{'totalCount': 33771},{'totalCount': 240},True
+
+trimstray/the-book-of-secret-knowledge,{'totalCount': 33718},{'totalCount': 91},True
+
+huggingface/transformers,{'totalCount': 33697},{'totalCount': 2159},False
+
+apache/dubbo,{'totalCount': 33531},{'totalCount': 1698},False
+
+521xueweihan/HelloGitHub,{'totalCount': 33508},{'totalCount': 12},True
+
+python/cpython,{'totalCount': 33488},{'totalCount': 17751},False
+
+JetBrains/kotlin,{'totalCount': 33357},{'totalCount': 1525},True
+
+godotengine/godot,{'totalCount': 33245},{'totalCount': 13238},True
+
+Unitech/pm2,{'totalCount': 33186},{'totalCount': 497},True
+
+leonardomso/33-js-concepts,{'totalCount': 33142},{'totalCount': 95},True
+
+syncthing/syncthing,{'totalCount': 32980},{'totalCount': 1611},False
+
+AFNetworking/AFNetworking,{'totalCount': 32943},{'totalCount': 703},False
+
+prometheus/prometheus,{'totalCount': 32882},{'totalCount': 3323},True
+
+justjavac/awesome-wechat-weapp,{'totalCount': 32788},{'totalCount': 233},True
+
+shadowsocks/shadowsocks,{'totalCount': 32782},{'totalCount': 70},True
+
+etcd-io/etcd,{'totalCount': 32771},{'totalCount': 6008},True
+
+facebook/jest,{'totalCount': 32450},{'totalCount': 3742},False
+
+deepfakes/faceswap,{'totalCount': 32361},{'totalCount': 309},True
+
+mozilla/pdf.js,{'totalCount': 32114},{'totalCount': 4482},True
+
+mermaid-js/mermaid,{'totalCount': 32002},{'totalCount': 465},True
+
+gulpjs/gulp,{'totalCount': 31902},{'totalCount': 386},False
+
+adobe/brackets,{'totalCount': 31899},{'totalCount': 4332},True
+
+junegunn/fzf,{'totalCount': 31772},{'totalCount': 243},True
+
+PhilJay/MPAndroidChart,{'totalCount': 31690},{'totalCount': 189},True
+
+google/material-design-lite,{'totalCount': 31672},{'totalCount': 655},True
+
+karan/Projects,{'totalCount': 31584},{'totalCount': 19},True
+
+algorithm-visualizer/algorithm-visualizer,{'totalCount': 31583},{'totalCount': 178},True
+
+discourse/discourse,{'totalCount': 31501},{'totalCount': 8539},False
+
+hexojs/hexo,{'totalCount': 31276},{'totalCount': 688},True
+
+slatedocs/slate,{'totalCount': 31130},{'totalCount': 212},True
+
+styled-components/styled-components,{'totalCount': 30871},{'totalCount': 770},True
+
+Solido/awesome-flutter,{'totalCount': 30842},{'totalCount': 345},True
+
+BVLC/caffe,{'totalCount': 30832},{'totalCount': 1087},True
+
+blueimp/jQuery-File-Upload,{'totalCount': 30811},{'totalCount': 115},True
+
+alvarotrigo/fullPage.js,{'totalCount': 30792},{'totalCount': 261},True
+
+sahat/hackathon-starter,{'totalCount': 30759},{'totalCount': 292},True
+
+containous/traefik,{'totalCount': 30732},{'totalCount': 2774},False
+
+tiimgreen/github-cheat-sheet,{'totalCount': 30710},{'totalCount': 125},True
+
+pixijs/pixi.js,{'totalCount': 30590},{'totalCount': 1905},True
+
+florinpop17/app-ideas,{'totalCount': 30483},{'totalCount': 149},True
+
+XX-net/XX-Net,{'totalCount': 30315},{'totalCount': 359},True
+
+shadowsocks/shadowsocks-android,{'totalCount': 30237},{'totalCount': 228},True
+
+immutable-js/immutable-js,{'totalCount': 30200},{'totalCount': 379},True
+
+nuxt/nuxt.js,{'totalCount': 30178},{'totalCount': 1980},True
+
+Trinea/android-open-project,{'totalCount': 30169},{'totalCount': 201},True
+
+nestjs/nest,{'totalCount': 30157},{'totalCount': 2043},True
+
+Avik-Jain/100-Days-Of-ML-Code,{'totalCount': 30115},{'totalCount': 6},True
+
+apache/incubator-superset,{'totalCount': 30069},{'totalCount': 4737},False
+
+caddyserver/caddy,{'totalCount': 30028},{'totalCount': 1043},True
+
+TheAlgorithms/Java,{'totalCount': 29965},{'totalCount': 458},True
+
+koajs/koa,{'totalCount': 29887},{'totalCount': 391},False
+
+chinese-poetry/chinese-poetry,{'totalCount': 29876},{'totalCount': 81},True
+
+bumptech/glide,{'totalCount': 29871},{'totalCount': 347},True
+
+DefinitelyTyped/DefinitelyTyped,{'totalCount': 29832},{'totalCount': 34008},False
+
+fastlane/fastlane,{'totalCount': 29759},{'totalCount': 5159},False
+
+airbnb/lottie-android,{'totalCount': 29669},{'totalCount': 380},False
+
+exacity/deeplearningbook-chinese,{'totalCount': 29595},{'totalCount': 16},True
+
+videojs/video.js,{'totalCount': 29448},{'totalCount': 1300},False
+
+huginn/huginn,{'totalCount': 29424},{'totalCount': 892},True
+
+JuliaLang/julia,{'totalCount': 29301},{'totalCount': 15108},True
+
+zenorocha/clipboard.js,{'totalCount': 29204},{'totalCount': 67},True
+
+kamranahmedse/design-patterns-for-humans,{'totalCount': 29162},{'totalCount': 47},True
+
+strapi/strapi,{'totalCount': 28977},{'totalCount': 2532},True
+
+Leaflet/Leaflet,{'totalCount': 28939},{'totalCount': 2085},False
+
+iamkun/dayjs,{'totalCount': 28882},{'totalCount': 445},True
+
+0voice/interview_internal_reference,{'totalCount': 28857},{'totalCount': 35},True
+
+foundation/foundation-sites,{'totalCount': 28765},{'totalCount': 2913},True
+
+testerSunshine/12306,{'totalCount': 28676},{'totalCount': 31},True
+
+isocpp/CppCoreGuidelines,{'totalCount': 28493},{'totalCount': 656},True
+
+shadowsocks/ShadowsocksX-NG,{'totalCount': 28425},{'totalCount': 58},True
+
+tldr-pages/tldr,{'totalCount': 28385},{'totalCount': 3246},False
+
+floodsung/Deep-Learning-Papers-Reading-Roadmap,{'totalCount': 28326},{'totalCount': 22},True
+
+RocketChat/Rocket.Chat,{'totalCount': 28264},{'totalCount': 5913},True
+
+php/php-src,{'totalCount': 28210},{'totalCount': 636},True
+
+photonstorm/phaser,{'totalCount': 28142},{'totalCount': 1309},True
+
+jondot/awesome-react-native,{'totalCount': 28062},{'totalCount': 864},True
+
+Blankj/AndroidUtilCode,{'totalCount': 27894},{'totalCount': 68},True
+
+ariya/phantomjs,{'totalCount': 27862},{'totalCount': 562},False
+
+lukehoban/es6features,{'totalCount': 27827},{'totalCount': 41},True
+
+Homebrew/legacy-homebrew,{'totalCount': 27680},{'totalCount': 222},False
+
+jashkenas/backbone,{'totalCount': 27665},{'totalCount': 851},True
+
+dypsilon/frontend-dev-bookmarks,{'totalCount': 27618},{'totalCount': 129},True
+
+quilljs/quill,{'totalCount': 27616},{'totalCount': 200},True
+
+vuetifyjs/vuetify,{'totalCount': 27556},{'totalCount': 2328},False
+
+grpc/grpc,{'totalCount': 27543},{'totalCount': 12123},True
+
+apache/spark,{'totalCount': 27465},{'totalCount': 4},False
+
+tailwindlabs/tailwindcss,{'totalCount': 27450},{'totalCount': 714},False
+
+fffaraz/awesome-cpp,{'totalCount': 27323},{'totalCount': 407},True
+
+joshbuchea/HEAD,{'totalCount': 27322},{'totalCount': 83},True
+
+bilibili/ijkplayer,{'totalCount': 27296},{'totalCount': 29},True
+
+binhnguyennus/awesome-scalability,{'totalCount': 27293},{'totalCount': 22},True
+
+open-guides/og-aws,{'totalCount': 27281},{'totalCount': 474},True
+
+certbot/certbot,{'totalCount': 27167},{'totalCount': 3003},True
+
+alex/what-happens-when,{'totalCount': 27161},{'totalCount': 105},False
+
+preactjs/preact,{'totalCount': 27130},{'totalCount': 938},True
+
+xitu/gold-miner,{'totalCount': 27105},{'totalCount': 2587},False
+
+codepath/android_guides,{'totalCount': 26969},{'totalCount': 9},True
+
+NervJS/taro,{'totalCount': 26904},{'totalCount': 1102},True
+
+Kong/kong,{'totalCount': 26869},{'totalCount': 2174},True
+
+tastejs/todomvc,{'totalCount': 26851},{'totalCount': 714},False
+
+apachecn/AiLearning,{'totalCount': 26848},{'totalCount': 461},True
+
+danielmiessler/SecLists,{'totalCount': 26782},{'totalCount': 282},True
+
+ethereum/go-ethereum,{'totalCount': 26738},{'totalCount': 4041},True
+
+caolan/async,{'totalCount': 26718},{'totalCount': 410},True
+
+bayandin/awesome-awesomeness,{'totalCount': 26576},{'totalCount': 173},True
+
+pandas-dev/pandas,{'totalCount': 26526},{'totalCount': 12916},False
+
+ant-design/ant-design-pro,{'totalCount': 26476},{'totalCount': 796},True
+
+localstack/localstack,{'totalCount': 26341},{'totalCount': 1035},False
+
+vuejs/vue-cli,{'totalCount': 26324},{'totalCount': 1012},True
+
+react-boilerplate/react-boilerplate,{'totalCount': 26284},{'totalCount': 715},False
+
+wg/wrk,{'totalCount': 26199},{'totalCount': 0},True
+
+zxing/zxing,{'totalCount': 26182},{'totalCount': 157},True
+
+akullpp/awesome-java,{'totalCount': 26093},{'totalCount': 548},True
+
+getsentry/sentry,{'totalCount': 26065},{'totalCount': 14934},False
+
+kenwheeler/slick,{'totalCount': 26042},{'totalCount': 235},True
+
+faif/python-patterns,{'totalCount': 25843},{'totalCount': 234},True
+
+yangshun/front-end-interview-handbook,{'totalCount': 25819},{'totalCount': 163},False
+
+ngosang/trackerslist,{'totalCount': 25746},{'totalCount': 1},True
+
+FiloSottile/mkcert,{'totalCount': 25703},{'totalCount': 42},False
+
+shengxinjing/programmer-job-blacklist,{'totalCount': 25655},{'totalCount': 16},True
+
+Alvin9999/new-pac,{'totalCount': 25563},{'totalCount': 0},True
+
+proxyee-down-org/proxyee-down,{'totalCount': 25558},{'totalCount': 16},True
+
+jashkenas/underscore,{'totalCount': 25526},{'totalCount': 711},True
+
+aosabook/500lines,{'totalCount': 25464},{'totalCount': 175},True
+
+jakevdp/PythonDataScienceHandbook,{'totalCount': 25463},{'totalCount': 28},True
+
+dcloudio/uni-app,{'totalCount': 25460},{'totalCount': 133},True
+
+JakeWharton/butterknife,{'totalCount': 25448},{'totalCount': 346},True
+
+google/styleguide,{'totalCount': 25386},{'totalCount': 118},True
+
+3b1b/manim,{'totalCount': 25381},{'totalCount': 348},True
+
+carbon-app/carbon,{'totalCount': 25278},{'totalCount': 505},False
+
+square/leakcanary,{'totalCount': 25255},{'totalCount': 634},True
+
+dylanaraps/pure-bash-bible,{'totalCount': 25255},{'totalCount': 26},True
+
+crossoverJie/JCSprout,{'totalCount': 25227},{'totalCount': 69},True
+
+alacritty/alacritty,{'totalCount': 25222},{'totalCount': 1066},False
+
+pingcap/tidb,{'totalCount': 25070},{'totalCount': 12398},False
+
+Marak/faker.js,{'totalCount': 25070},{'totalCount': 250},True
+
+pi-hole/pi-hole,{'totalCount': 25002},{'totalCount': 1129},True
+
+Tencent/weui,{'totalCount': 24979},{'totalCount': 165},True
+
+kon9chunkit/GitHub-Chinese-Top-Charts,{'totalCount': 24956},{'totalCount': 0},True
+
+astaxie/beego,{'totalCount': 24867},{'totalCount': 866},True
+
+google-research/bert,{'totalCount': 24854},{'totalCount': 32},True
+
+iina/iina,{'totalCount': 24828},{'totalCount': 370},True
+
+request/request,{'totalCount': 24801},{'totalCount': 650},False
+
+madewithml/basics,{'totalCount': 24773},{'totalCount': 138},True
+
+nolimits4web/swiper,{'totalCount': 24771},{'totalCount': 252},True
+
+vuejs/vuex,{'totalCount': 24738},{'totalCount': 583},True
+
+dkhamsing/open-source-ios-apps,{'totalCount': 24722},{'totalCount': 574},True
+
+netty/netty,{'totalCount': 24712},{'totalCount': 1553},False
+
+fzaninotto/Faker,{'totalCount': 24675},{'totalCount': 795},True
+
+jiahaog/nativefier,{'totalCount': 24660},{'totalCount': 143},False
+
+select2/select2,{'totalCount': 24633},{'totalCount': 664},True
+
+formium/formik,{'totalCount': 24574},{'totalCount': 640},True
+
+nylas/nylas-mail,{'totalCount': 24545},{'totalCount': 139},False
+
+Modernizr/Modernizr,{'totalCount': 24527},{'totalCount': 760},True
+
+lerna/lerna,{'totalCount': 24481},{'totalCount': 579},False
+
+fighting41love/funNLP,{'totalCount': 24423},{'totalCount': 9},True
+
+houshanren/hangzhou_house_knowledge,{'totalCount': 24356},{'totalCount': 4},True
+
+standard/standard,{'totalCount': 24301},{'totalCount': 293},True
+
+nvie/gitflow,{'totalCount': 24292},{'totalCount': 36},True
+
+ZuzooVn/machine-learning-for-software-engineers,{'totalCount': 24241},{'totalCount': 53},True
+
+istio/istio,{'totalCount': 24225},{'totalCount': 11886},False
+
+johnpapa/angular-styleguide,{'totalCount': 24167},{'totalCount': 331},True
+
+ziadoz/awesome-php,{'totalCount': 24146},{'totalCount': 363},True
+
+fxsjy/jieba,{'totalCount': 24091},{'totalCount': 96},True
+
+CSSEGISandData/COVID-19,{'totalCount': 24058},{'totalCount': 133},True
+
+rethinkdb/rethinkdb,{'totalCount': 24013},{'totalCount': 378},False
+
+mathiasbynens/dotfiles,{'totalCount': 23989},{'totalCount': 44},False
+
+github/fetch,{'totalCount': 23978},{'totalCount': 136},True
+
+symfony/symfony,{'totalCount': 23888},{'totalCount': 14975},True
+
+herrbischoff/awesome-macos-command-line,{'totalCount': 23887},{'totalCount': 100},True
+
+minio/minio,{'totalCount': 23841},{'totalCount': 5318},False
+
+freeCodeCamp/devdocs,{'totalCount': 23839},{'totalCount': 129},True
+
+composer/composer,{'totalCount': 23793},{'totalCount': 2068},True
+
+angular/angular-cli,{'totalCount': 23761},{'totalCount': 4830},False
+
+hashicorp/terraform,{'totalCount': 23742},{'totalCount': 8437},True
+
+brillout/awesome-react-components,{'totalCount': 23732},{'totalCount': 162},True
+
+facebookresearch/Detectron,{'totalCount': 23648},{'totalCount': 0},True
+
+ryanoasis/nerd-fonts,{'totalCount': 23626},{'totalCount': 112},True
+
+ityouknow/spring-boot-examples,{'totalCount': 23588},{'totalCount': 5},True
+
+raywenderlich/swift-algorithm-club,{'totalCount': 23560},{'totalCount': 605},True
+
+ocornut/imgui,{'totalCount': 23530},{'totalCount': 247},True
+
+iview/iview,{'totalCount': 23509},{'totalCount': 526},True
+
+hoppscotch/hoppscotch,{'totalCount': 23487},{'totalCount': 592},True
+
+date-fns/date-fns,{'totalCount': 23459},{'totalCount': 659},False
+
+serhii-londar/open-source-mac-os-apps,{'totalCount': 23415},{'totalCount': 375},True
+
+skylot/jadx,{'totalCount': 23369},{'totalCount': 216},True
+
+rclone/rclone,{'totalCount': 23337},{'totalCount': 759},False
+
+danielgindi/Charts,{'totalCount': 23299},{'totalCount': 370},True
+
+markedjs/marked,{'totalCount': 23273},{'totalCount': 369},True
+
+IanLunn/Hover,{'totalCount': 23259},{'totalCount': 22},True
+
+alibaba/p3c,{'totalCount': 23159},{'totalCount': 54},True
+
+postcss/postcss,{'totalCount': 23144},{'totalCount': 583},True
+
+cypress-io/cypress,{'totalCount': 23089},{'totalCount': 1742},True
+
+transloadit/uppy,{'totalCount': 23061},{'totalCount': 1165},True
+
+SDWebImage/SDWebImage,{'totalCount': 23004},{'totalCount': 742},True
+
+Homebrew/brew,{'totalCount': 22993},{'totalCount': 5156},True
+
+alibaba/arthas,{'totalCount': 22990},{'totalCount': 289},True
+
+elsewhencode/project-guidelines,{'totalCount': 22981},{'totalCount': 103},True
+
+unknwon/the-way-to-go_ZH_CN,{'totalCount': 22961},{'totalCount': 531},False
+
+CodeHubApp/CodeHub,{'totalCount': 22944},{'totalCount': 13},True
+
+MunGell/awesome-for-beginners,{'totalCount': 22924},{'totalCount': 270},True
+
+kelseyhightower/kubernetes-the-hard-way,{'totalCount': 22914},{'totalCount': 68},True
+
+ReactiveX/rxjs,{'totalCount': 22895},{'totalCount': 1868},True
+
+GitbookIO/gitbook,{'totalCount': 22881},{'totalCount': 214},True
+
+agalwood/Motrix,{'totalCount': 22843},{'totalCount': 100},True
+
+greenrobot/EventBus,{'totalCount': 22841},{'totalCount': 29},True
+
+eugenp/tutorials,{'totalCount': 22826},{'totalCount': 6836},True
+
+sequelize/sequelize,{'totalCount': 22819},{'totalCount': 2664},False
+
+lib-pku/libpku,{'totalCount': 22814},{'totalCount': 22},True
+
+lydiahallie/javascript-questions,{'totalCount': 22700},{'totalCount': 192},True
+
+SheetJS/sheetjs,{'totalCount': 22697},{'totalCount': 74},False
+
+sharkdp/bat,{'totalCount': 22666},{'totalCount': 461},True
+
+amix/vimrc,{'totalCount': 22642},{'totalCount': 72},True
+
+webtorrent/webtorrent,{'totalCount': 22583},{'totalCount': 400},True
+
+cheeriojs/cheerio,{'totalCount': 22571},{'totalCount': 322},False
+
+geekcompany/ResumeSample,{'totalCount': 22511},{'totalCount': 2},True
+
+VincentGarreau/particles.js,{'totalCount': 22501},{'totalCount': 21},True
+
+FFmpeg/FFmpeg,{'totalCount': 21170},{'totalCount': 15},True
+
+heartcombo/devise,{'totalCount': 21098},{'totalCount': 730},True
+
+codemirror/CodeMirror,{'totalCount': 21097},{'totalCount': 418},True
+
+pure-css/pure,{'totalCount': 21068},{'totalCount': 137},False
+
+sorrycc/awesome-javascript,{'totalCount': 20983},{'totalCount': 301},True
+
+pypa/pipenv,{'totalCount': 20961},{'totalCount': 979},True
+
+tiangolo/fastapi,{'totalCount': 20948},{'totalCount': 449},True
+
+SortableJS/Sortable,{'totalCount': 20943},{'totalCount': 224},True
+
+facebook/flow,{'totalCount': 20918},{'totalCount': 158},True
+
+JedWatson/react-select,{'totalCount': 20917},{'totalCount': 821},True
+
+wagoodman/dive,{'totalCount': 22113},{'totalCount': 106},True
+
+PowerShell/PowerShell,{'totalCount': 22095},{'totalCount': 4386},False
+
+laravel/framework,{'totalCount': 22064},{'totalCount': 10115},True
+
+ajaxorg/ace,{'totalCount': 22045},{'totalCount': 1354},True
+
+naptha/tesseract.js,{'totalCount': 22033},{'totalCount': 74},True
+
+alibaba/flutter-go,{'totalCount': 22001},{'totalCount': 158},True
+
+formulahendry/955.WLB,{'totalCount': 21972},{'totalCount': 15},True
+
+airbnb/lottie-web,{'totalCount': 21969},{'totalCount': 78},True
+
+terryum/awesome-deep-learning-papers,{'totalCount': 21949},{'totalCount': 39},True
+
+tabler/tabler,{'totalCount': 21924},{'totalCount': 151},True
+
+tootsuite/mastodon,{'totalCount': 21822},{'totalCount': 7748},False
+
+ycm-core/YouCompleteMe,{'totalCount': 21818},{'totalCount': 649},True
+
+CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,{'totalCount': 21762},{'totalCount': 235},True
+
+obsproject/obs-studio,{'totalCount': 21747},{'totalCount': 1595},True
+
+drone/drone,{'totalCount': 21727},{'totalCount': 836},True
+
+0xAX/linux-insides,{'totalCount': 21700},{'totalCount': 502},True
+
+hammerjs/hammer.js,{'totalCount': 21699},{'totalCount': 114},True
+
+gorhill/uBlock,{'totalCount': 21696},{'totalCount': 122},False
+
+google/leveldb,{'totalCount': 21685},{'totalCount': 29},True
+
+VundleVim/Vundle.vim,{'totalCount': 21656},{'totalCount': 86},True
+
+facebookresearch/fastText,{'totalCount': 21639},{'totalCount': 7},True
+
+rstacruz/nprogress,{'totalCount': 21610},{'totalCount': 34},True
+
+StreisandEffect/streisand,{'totalCount': 21600},{'totalCount': 527},True
+
+realpython/python-guide,{'totalCount': 21587},{'totalCount': 659},True
+
+BurntSushi/ripgrep,{'totalCount': 21574},{'totalCount': 374},False
+
+niklasvh/html2canvas,{'totalCount': 21559},{'totalCount': 117},True
+
+emberjs/ember.js,{'totalCount': 21544},{'totalCount': 7251},True
+
+microsoft/monaco-editor,{'totalCount': 21541},{'totalCount': 80},True
+
+rapid7/metasploit-framework,{'totalCount': 21532},{'totalCount': 8019},True
+
+balderdashy/sails,{'totalCount': 21529},{'totalCount': 505},True
+
+satwikkansal/wtfpython,{'totalCount': 21515},{'totalCount': 73},True
+
+scwang90/SmartRefreshLayout,{'totalCount': 21468},{'totalCount': 6},True
+
+cmderdev/cmder,{'totalCount': 21467},{'totalCount': 315},True
+
+Automattic/mongoose,{'totalCount': 21466},{'totalCount': 1172},True
+
+Polymer/polymer,{'totalCount': 21451},{'totalCount': 1061},True
+
+vim/vim,{'totalCount': 21328},{'totalCount': 3},True
+
+koalaman/shellcheck,{'totalCount': 21319},{'totalCount': 222},True
+
+akveo/ngx-admin,{'totalCount': 21301},{'totalCount': 297},True
+
+remy/nodemon,{'totalCount': 21230},{'totalCount': 259},True
+
+go-gitea/gitea,{'totalCount': 21215},{'totalCount': 5861},False
+
+FFmpeg/FFmpeg,{'totalCount': 21170},{'totalCount': 15},True
+
+heartcombo/devise,{'totalCount': 21098},{'totalCount': 730},True
+
+codemirror/CodeMirror,{'totalCount': 21097},{'totalCount': 418},True
+
+pure-css/pure,{'totalCount': 21068},{'totalCount': 137},False
+
+fouber/blog,{'totalCount': 21063},{'totalCount': 1},True
+
+ageron/handson-ml,{'totalCount': 21025},{'totalCount': 46},True
+
+sorrycc/awesome-javascript,{'totalCount': 20983},{'totalCount': 301},True
+
+t4t5/sweetalert,{'totalCount': 20969},{'totalCount': 82},True
+
+pypa/pipenv,{'totalCount': 20961},{'totalCount': 979},True
+
+tiangolo/fastapi,{'totalCount': 20948},{'totalCount': 449},True
+
+SortableJS/Sortable,{'totalCount': 20943},{'totalCount': 224},True
+
+facebook/flow,{'totalCount': 20918},{'totalCount': 158},True
+
+JedWatson/react-select,{'totalCount': 20917},{'totalCount': 821},True
+
+aria2/aria2,{'totalCount': 20907},{'totalCount': 194},True
+
+ggreer/the_silver_searcher,{'totalCount': 20867},{'totalCount': 398},True
+
+typeorm/typeorm,{'totalCount': 20851},{'totalCount': 1036},True
+
+redux-saga/redux-saga,{'totalCount': 20846},{'totalCount': 624},True
+
+littlecodersh/ItChat,{'totalCount': 20806},{'totalCount': 29},True
+
+kahun/awesome-sysadmin,{'totalCount': 20793},{'totalCount': 183},True
+
+donnemartin/interactive-coding-challenges,{'totalCount': 20785},{'totalCount': 176},True
+
+CymChad/BaseRecyclerViewAdapterHelper,{'totalCount': 20724},{'totalCount': 190},True
+
+GoogleChrome/lighthouse,{'totalCount': 20710},{'totalCount': 3293},False
+
+go-gorm/gorm,{'totalCount': 20709},{'totalCount': 353},True
+
+atlassian/react-beautiful-dnd,{'totalCount': 20708},{'totalCount': 470},True
+
+hankcs/HanLP,{'totalCount': 20705},{'totalCount': 62},True
+
+pyenv/pyenv,{'totalCount': 20685},{'totalCount': 419},True
+
+docker/compose,{'totalCount': 20674},{'totalCount': 1921},True
+
+Tencent/wepy,{'totalCount': 20654},{'totalCount': 424},True
+
+syl20bnr/spacemacs,{'totalCount': 20606},{'totalCount': 726},True
+
+hashicorp/vagrant,{'totalCount': 20604},{'totalCount': 2278},True
+
+ovity/octotree,{'totalCount': 20491},{'totalCount': 249},False
+
+junegunn/vim-plug,{'totalCount': 20488},{'totalCount': 151},True
+
+Advanced-Frontend/Daily-Interview-Question,{'totalCount': 20470},{'totalCount': 14},True
+
+goabstract/Awesome-Design-Tools,{'totalCount': 20446},{'totalCount': 282},True
+
+dimsemenov/PhotoSwipe,{'totalCount': 20356},{'totalCount': 49},True
+
+airbnb/lottie-ios,{'totalCount': 20354},{'totalCount': 308},True
+
+kriasoft/react-starter-kit,{'totalCount': 20347},{'totalCount': 482},False
+
+sindresorhus/awesome-electron,{'totalCount': 20330},{'totalCount': 236},False
+
+jgm/pandoc,{'totalCount': 20295},{'totalCount': 1040},True
+
+angular/components,{'totalCount': 20291},{'totalCount': 7538},False
+
+typicode/husky,{'totalCount': 20290},{'totalCount': 139},True
+
+Netflix/Hystrix,{'totalCount': 20279},{'totalCount': 672},True
+
+nlohmann/json,{'totalCount': 20269},{'totalCount': 397},True
+
+github/hub,{'totalCount': 20242},{'totalCount': 393},True
+
+mbeaudru/modern-js-cheatsheet,{'totalCount': 20198},{'totalCount': 80},True
+
+FezVrasta/bootstrap-material-design,{'totalCount': 20191},{'totalCount': 193},True
+
+microsoft/calculator,{'totalCount': 20186},{'totalCount': 565},False
+
+powerline/fonts,{'totalCount': 20172},{'totalCount': 72},True
+
+hashicorp/consul,{'totalCount': 20153},{'totalCount': 4002},True
+
+google/iosched,{'totalCount': 20117},{'totalCount': 57},True
+
+bevacqua/dragula,{'totalCount': 20024},{'totalCount': 57},True
+
+alebcay/awesome-shell,{'totalCount': 20021},{'totalCount': 280},True
+
+reduxjs/react-redux,{'totalCount': 20007},{'totalCount': 356},False
+
+Meituan-Dianping/mpvue,{'totalCount': 19993},{'totalCount': 64},True
+
+SwiftyJSON/SwiftyJSON,{'totalCount': 19960},{'totalCount': 213},True
+
+mqyqingfeng/Blog,{'totalCount': 19946},{'totalCount': 3},True
+
+bvaughn/react-virtualized,{'totalCount': 19935},{'totalCount': 438},False
+
+jobbole/awesome-python-cn,{'totalCount': 19913},{'totalCount': 45},True
+
+mitmproxy/mitmproxy,{'totalCount': 19882},{'totalCount': 1519},True
+
+guzzle/guzzle,{'totalCount': 19876},{'totalCount': 779},True
+
+MrRio/jsPDF,{'totalCount': 19874},{'totalCount': 614},True
+
+ReactiveCocoa/ReactiveCocoa,{'totalCount': 19862},{'totalCount': 1338},True
+
+iptv-org/iptv,{'totalCount': 19859},{'totalCount': 1224},True
+
+facebookarchive/pop,{'totalCount': 19851},{'totalCount': 100},True
+
+mochajs/mocha,{'totalCount': 19794},{'totalCount': 1021},False
+
+dmlc/xgboost,{'totalCount': 19777},{'totalCount': 2049},False
+
+googlehosts/hosts,{'totalCount': 19766},{'totalCount': 50},False
+
+bradtraversy/design-resources-for-developers,{'totalCount': 19760},{'totalCount': 402},True
+
+iperov/DeepFaceLab,{'totalCount': 19755},{'totalCount': 31},True
+
+dokku/dokku,{'totalCount': 19727},{'totalCount': 1805},True
+
+Reactive-Extensions/RxJS,{'totalCount': 19715},{'totalCount': 520},True
+
+matteocrippa/awesome-swift,{'totalCount': 19703},{'totalCount': 1305},True
+
+markerikson/react-redux-links,{'totalCount': 19702},{'totalCount': 58},True
+
+SwiftGGTeam/the-swift-programming-language-in-chinese,{'totalCount': 19649},{'totalCount': 644},True
+
+emscripten-core/emscripten,{'totalCount': 19604},{'totalCount': 5299},False
+
+byoungd/English-level-up-tips-for-Chinese,{'totalCount': 19598},{'totalCount': 20},True
+
+railsware/upterm,{'totalCount': 19573},{'totalCount': 293},True
+
+influxdata/influxdb,{'totalCount': 19553},{'totalCount': 7710},True
+
+pugjs/pug,{'totalCount': 19549},{'totalCount': 492},False
+
+ColorlibHQ/gentelella,{'totalCount': 19524},{'totalCount': 161},True
+
+usablica/intro.js,{'totalCount': 19505},{'totalCount': 141},True
+
+donnemartin/data-science-ipython-notebooks,{'totalCount': 19481},{'totalCount': 31},True
+
+jgraph/drawio,{'totalCount': 19465},{'totalCount': 23},True
+
+BradLarson/GPUImage,{'totalCount': 19458},{'totalCount': 241},True
+
+ramda/ramda,{'totalCount': 19452},{'totalCount': 1193},True
+
+paularmstrong/normalizr,{'totalCount': 19432},{'totalCount': 94},True
+
+CorentinJ/Real-Time-Voice-Cloning,{'totalCount': 19428},{'totalCount': 29},False
+
+fastai/fastai,{'totalCount': 19428},{'totalCount': 1245},False
+
+tornadoweb/tornado,{'totalCount': 19419},{'totalCount': 760},True
+
+vapor/vapor,{'totalCount': 19394},{'totalCount': 916},False
+
+julycoding/The-Art-Of-Programming-By-July,{'totalCount': 19379},{'totalCount': 253},True
+
+react-native-elements/react-native-elements,{'totalCount': 19360},{'totalCount': 759},True
+
+chubin/cheat.sh,{'totalCount': 19321},{'totalCount': 81},True
+
+nagadomi/waifu2x,{'totalCount': 19306},{'totalCount': 63},True
+
+petkaantonov/bluebird,{'totalCount': 19299},{'totalCount': 289},True
+
+doczjs/docz,{'totalCount': 19258},{'totalCount': 344},False
+
+FallibleInc/security-guide-for-developers,{'totalCount': 19251},{'totalCount': 26},True
+
+lukasz-madon/awesome-remote-job,{'totalCount': 19200},{'totalCount': 475},True
+
+nefe/You-Dont-Need-jQuery,{'totalCount': 19198},{'totalCount': 158},True
+
+trailofbits/algo,{'totalCount': 19192},{'totalCount': 446},False
+
+inconshreveable/ngrok,{'totalCount': 19187},{'totalCount': 34},True
+
+dotnet/aspnetcore,{'totalCount': 19173},{'totalCount': 6000},True
+
+pcottle/learnGitBranching,{'totalCount': 19162},{'totalCount': 353},True
+
+tipsy/profile-summary-for-github,{'totalCount': 19146},{'totalCount': 20},True
+
+wsargent/docker-cheat-sheet,{'totalCount': 19133},{'totalCount': 127},True
+
+futurice/android-best-practices,{'totalCount': 19133},{'totalCount': 80},True
+
+ReactiveX/RxAndroid,{'totalCount': 19128},{'totalCount': 167},True
+
+acmesh-official/acme.sh,{'totalCount': 19071},{'totalCount': 922},True
+
+enzymejs/enzyme,{'totalCount': 19070},{'totalCount': 633},True
+
+ReactiveX/RxSwift,{'totalCount': 19064},{'totalCount': 682},True
+
+kubernetes/minikube,{'totalCount': 19063},{'totalCount': 3627},True
+
+domnikl/DesignPatternsPHP,{'totalCount': 19051},{'totalCount': 224},True
+
+facebook/docusaurus,{'totalCount': 19045},{'totalCount': 2012},False
+
+jlmakes/scrollreveal,{'totalCount': 19044},{'totalCount': 32},False
+
+SamyPesse/How-to-Make-a-Computer-Operating-System,{'totalCount': 19011},{'totalCount': 42},True
+
+NativeScript/NativeScript,{'totalCount': 19000},{'totalCount': 2572},False
+
+kataras/iris,{'totalCount': 18990},{'totalCount': 157},True
+
+apache/incubator-mxnet,{'totalCount': 18980},{'totalCount': 7779},False
+
+cockroachdb/cockroach,{'totalCount': 18965},{'totalCount': 24231},True
+
+mattermost/mattermost-server,{'totalCount': 18923},{'totalCount': 9202},False
+
+rollup/rollup,{'totalCount': 18912},{'totalCount': 1153},False
+
+QSCTech/zju-icicles,{'totalCount': 18886},{'totalCount': 95},True
+
+HeroTransitions/Hero,{'totalCount': 18877},{'totalCount': 94},False
+
+facebook/draft-js,{'totalCount': 18864},{'totalCount': 212},True
+
+tmux/tmux,{'totalCount': 18863},{'totalCount': 0},True
+
+feathericons/feather,{'totalCount': 18829},{'totalCount': 91},True
+
+postcss/autoprefixer,{'totalCount': 18809},{'totalCount': 240},True
+
+chenglou/react-motion,{'totalCount': 18806},{'totalCount': 144},True
+
+encode/django-rest-framework,{'totalCount': 18788},{'totalCount': 2505},True
+
+MostlyAdequate/mostly-adequate-guide,{'totalCount': 18781},{'totalCount': 263},True
+
+react-navigation/react-navigation,{'totalCount': 18776},{'totalCount': 863},False
+
+pjreddie/darknet,{'totalCount': 18761},{'totalCount': 9},True
+
+OAI/OpenAPI-Specification,{'totalCount': 18730},{'totalCount': 599},True
+
+odoo/odoo,{'totalCount': 18716},{'totalCount': 6077},False
+
+cfenollosa/os-tutorial,{'totalCount': 18712},{'totalCount': 11},True
+
+tj/commander.js,{'totalCount': 18673},{'totalCount': 403},True
+
+d2l-ai/d2l-zh,{'totalCount': 18670},{'totalCount': 478},True
+
+geekcomputers/Python,{'totalCount': 18654},{'totalCount': 545},True
+
+balena-io/etcher,{'totalCount': 18645},{'totalCount': 1558},True
+
+SeleniumHQ/selenium,{'totalCount': 18634},{'totalCount': 577},False
+
+hasura/graphql-engine,{'totalCount': 18617},{'totalCount': 1963},True
+
+AobingJava/JavaFamily,{'totalCount': 18610},{'totalCount': 2},True
+
+denysdovhan/wtfjs,{'totalCount': 18597},{'totalCount': 57},True
+
+JohnCoates/Aerial,{'totalCount': 18589},{'totalCount': 204},True
+
+vlang/v,{'totalCount': 18572},{'totalCount': 2912},False
+
+fengdu78/Coursera-ML-AndrewNg-Notes,{'totalCount': 18557},{'totalCount': 9},True
+
+ruanyf/es6tutorial,{'totalCount': 18555},{'totalCount': 316},True
+
+segmentio/nightmare,{'totalCount': 18554},{'totalCount': 251},True
+
+mongodb/mongo,{'totalCount': 18551},{'totalCount': 114},True
+
+CMU-Perceptual-Computing-Lab/openpose,{'totalCount': 18545},{'totalCount': 130},False
+
+google/web-starter-kit,{'totalCount': 18529},{'totalCount': 234},True
+
+ianstormtaylor/slate,{'totalCount': 18519},{'totalCount': 1121},False
+
+google/gson,{'totalCount': 18518},{'totalCount': 203},True
+
+lenve/vhr,{'totalCount': 18500},{'totalCount': 0},True
+
+veggiemonk/awesome-docker,{'totalCount': 18490},{'totalCount': 710},True
+
+bannedbook/fanqiang,{'totalCount': 18486},{'totalCount': 1},True
+
+spf13/cobra,{'totalCount': 18486},{'totalCount': 329},False
+
+Prinzhorn/skrollr,{'totalCount': 18453},{'totalCount': 35},True
+
+bilibili/flv.js,{'totalCount': 18445},{'totalCount': 16},True
+
+swagger-api/swagger-ui,{'totalCount': 18437},{'totalCount': 1481},True
+
+verekia/js-stack-from-scratch,{'totalCount': 18417},{'totalCount': 55},True
+
+nsqio/nsq,{'totalCount': 18395},{'totalCount': 615},True
+
+openfaas/faas,{'totalCount': 18386},{'totalCount': 619},False
+
+xi-editor/xi-editor,{'totalCount': 18299},{'totalCount': 641},True
+
+android/architecture-components-samples,{'totalCount': 18296},{'totalCount': 183},True
+
+react-bootstrap/react-bootstrap,{'totalCount': 18271},{'totalCount': 2119},True
+
+ftlabs/fastclick,{'totalCount': 18260},{'totalCount': 67},True
+
+avajs/ava,{'totalCount': 18259},{'totalCount': 857},False
+
+vuejs/vue-devtools,{'totalCount': 18249},{'totalCount': 198},True
+
+Wox-launcher/Wox,{'totalCount': 18248},{'totalCount': 276},True
+
+apache/airflow,{'totalCount': 18235},{'totalCount': 5675},False
+
+react-spring/react-spring,{'totalCount': 18187},{'totalCount': 210},True
+
+sqlmapproject/sqlmap,{'totalCount': 18165},{'totalCount': 116},True
+
+poteto/hiring-without-whiteboards,{'totalCount': 18128},{'totalCount': 905},False
+
+afollestad/material-dialogs,{'totalCount': 18121},{'totalCount': 179},False
+
+jorgebucaran/hyperapp,{'totalCount': 18103},{'totalCount': 246},True
+
+labstack/echo,{'totalCount': 18102},{'totalCount': 321},True
+
+curl/curl,{'totalCount': 18091},{'totalCount': 117},False
+
+ipfs/ipfs,{'totalCount': 18089},{'totalCount': 119},True
+
+bcit-ci/CodeIgniter,{'totalCount': 18071},{'totalCount': 1273},True
+
+jamiebuilds/the-super-tiny-compiler,{'totalCount': 18059},{'totalCount': 20},True
+
+sampotts/plyr,{'totalCount': 18056},{'totalCount': 293},True
+
+yunjey/pytorch-tutorial,{'totalCount': 18049},{'totalCount': 28},True
+
+komeiji-satori/Dress,{'totalCount': 18044},{'totalCount': 386},True
+
+go-kit/kit,{'totalCount': 18026},{'totalCount': 419},True
+
+golang-standards/project-layout,{'totalCount': 17985},{'totalCount': 22},True
+
+helm/helm,{'totalCount': 17978},{'totalCount': 2950},True
+
+jaredhanson/passport,{'totalCount': 17942},{'totalCount': 44},True
+
+dotnet/corefx,{'totalCount': 17903},{'totalCount': 21726},True
+
+felixrieseberg/windows95,{'totalCount': 17877},{'totalCount': 15},True
+
+mbadolato/iTerm2-Color-Schemes,{'totalCount': 17868},{'totalCount': 173},True
+
+Seldaek/monolog,{'totalCount': 17854},{'totalCount': 568},True
+
+psf/black,{'totalCount': 17852},{'totalCount': 427},False
+
+keon/algorithms,{'totalCount': 17849},{'totalCount': 368},True
+
+immerjs/immer,{'totalCount': 17831},{'totalCount': 204},True
+
+parse-community/parse-server,{'totalCount': 17812},{'totalCount': 2464},False
+
+SnapKit/Masonry,{'totalCount': 17810},{'totalCount': 75},True
+
+Popmotion/popmotion,{'totalCount': 17808},{'totalCount': 290},True
+
+dhg/Skeleton,{'totalCount': 17801},{'totalCount': 25},True
+
+davideuler/architecture.of.internet-product,{'totalCount': 17792},{'totalCount': 1},True
+
+laurent22/joplin,{'totalCount': 17786},{'totalCount': 749},True
+
+YMFE/yapi,{'totalCount': 17784},{'totalCount': 107},True
+
+xkcoding/spring-boot-demo,{'totalCount': 17781},{'totalCount': 11},True
+
+localForage/localForage,{'totalCount': 17765},{'totalCount': 266},True
+
+viatsko/awesome-vscode,{'totalCount': 17764},{'totalCount': 223},True
+
+stedolan/jq,{'totalCount': 17746},{'totalCount': 205},True
+
+matterport/Mask_RCNN,{'totalCount': 17738},{'totalCount': 65},True
+
+facebook/rocksdb,{'totalCount': 17701},{'totalCount': 546},True
+
+ruanyf/jstraining,{'totalCount': 17697},{'totalCount': 17},True
+
+hashicorp/vault,{'totalCount': 17686},{'totalCount': 5240},False
+
+google/python-fire,{'totalCount': 17683},{'totalCount': 43},True
+
+servo/servo,{'totalCount': 17681},{'totalCount': 13636},True
+
+jcjohnson/neural-style,{'totalCount': 17655},{'totalCount': 16},True
+
+square/picasso,{'totalCount': 17640},{'totalCount': 472},True
+
+lovell/sharp,{'totalCount': 17631},{'totalCount': 176},False
+
+alibaba/weex,{'totalCount': 17556},{'totalCount': 1083},True
+
+Homebrew/homebrew-cask,{'totalCount': 17421},{'totalCount': 69434},False
+
+yeasy/docker_practice,{'totalCount': 17413},{'totalCount': 232},True
+
+libgdx/libgdx,{'totalCount': 17403},{'totalCount': 2108},True
+
+tobiasahlin/SpinKit,{'totalCount': 17400},{'totalCount': 51},True
+
+elixir-lang/elixir,{'totalCount': 17383},{'totalCount': 5113},False
+
+vuejs/vuepress,{'totalCount': 17368},{'totalCount': 709},True
+
+typescript-cheatsheets/react,{'totalCount': 17333},{'totalCount': 157},True
+
+TeamStuQ/skill-map,{'totalCount': 17312},{'totalCount': 42},True
+
+necolas/react-native-web,{'totalCount': 17310},{'totalCount': 22},False
+
+kilimchoi/engineering-blogs,{'totalCount': 17298},{'totalCount': 679},True
+
+ruby/ruby,{'totalCount': 17294},{'totalCount': 850},False
+
+jesseduffield/lazygit,{'totalCount': 17292},{'totalCount': 409},True
+
+getredash/redash,{'totalCount': 17251},{'totalCount': 2505},False
+
+airyland/vux,{'totalCount': 17224},{'totalCount': 308},True
+
+drduh/macOS-Security-and-Privacy-Guide,{'totalCount': 17222},{'totalCount': 130},True
+
+jhipster/generator-jhipster,{'totalCount': 17221},{'totalCount': 5726},True
+
+nikitavoloboev/my-mac-os,{'totalCount': 17211},{'totalCount': 14},True
+
+seata/seata,{'totalCount': 17206},{'totalCount': 1067},False
+
+npm/npm,{'totalCount': 17203},{'totalCount': 439},False
+
+explosion/spaCy,{'totalCount': 17201},{'totalCount': 1656},True
+
+reduxjs/reselect,{'totalCount': 17181},{'totalCount': 93},True
+
+goldfire/howler.js,{'totalCount': 17176},{'totalCount': 115},True
+
+osquery/osquery,{'totalCount': 17172},{'totalCount': 3433},False
+
+chrisbanes/PhotoView,{'totalCount': 17127},{'totalCount': 52},True
+
+google/googletest,{'totalCount': 17126},{'totalCount': 639},True
+
+BoostIO/Boostnote,{'totalCount': 17121},{'totalCount': 1071},True
+
+eslint/eslint,{'totalCount': 17110},{'totalCount': 4554},False
+
+commaai/openpilot,{'totalCount': 17107},{'totalCount': 941},False
+
+hollischuang/toBeTopJavaer,{'totalCount': 17094},{'totalCount': 29},True
+
+benweet/stackedit,{'totalCount': 17047},{'totalCount': 35},True
+
+zhaoolee/ChromeAppHeroes,{'totalCount': 17044},{'totalCount': 7},True
+
+highlightjs/highlight.js,{'totalCount': 17037},{'totalCount': 910},False
+
+geekxh/hello-algorithm,{'totalCount': 17024},{'totalCount': 18},True
+
+vuejs/vue-router,{'totalCount': 17017},{'totalCount': 530},True
+
+ApolloAuto/apollo,{'totalCount': 16999},{'totalCount': 8965},False
+
+rwaldron/idiomatic.js,{'totalCount': 16971},{'totalCount': 108},True
+
+rust-unofficial/awesome-rust,{'totalCount': 16957},{'totalCount': 802},True
+
+Binaryify/NeteaseCloudMusicApi,{'totalCount': 16942},{'totalCount': 90},True
+
+prisma/prisma1,{'totalCount': 16927},{'totalCount': 1319},False
+
+kelthuzadx/hosts,{'totalCount': 16915},{'totalCount': 286},True
+
+gfwlist/gfwlist,{'totalCount': 16912},{'totalCount': 0},False
+
+alibaba/easyexcel,{'totalCount': 16885},{'totalCount': 47},True
+
+qiurunze123/miaosha,{'totalCount': 16870},{'totalCount': 8},True
+
+microsoft/CNTK,{'totalCount': 16865},{'totalCount': 257},True
+
+apache/kafka,{'totalCount': 16860},{'totalCount': 3324},False
+
+facebook/flux,{'totalCount': 16834},{'totalCount': 158},True
+
+SnapKit/SnapKit,{'totalCount': 16828},{'totalCount': 111},True
+
+marktext/marktext,{'totalCount': 16809},{'totalCount': 768},True
+
+nicolargo/glances,{'totalCount': 16800},{'totalCount': 370},True
+
+fabricjs/fabric.js,{'totalCount': 16783},{'totalCount': 1402},False
+
+eriklindernoren/ML-From-Scratch,{'totalCount': 16770},{'totalCount': 9},True
+
+julianshapiro/velocity,{'totalCount': 16759},{'totalCount': 54},True
+
+nostra13/Android-Universal-Image-Loader,{'totalCount': 16746},{'totalCount': 51},True
+
+git-tips/tips,{'totalCount': 16710},{'totalCount': 127},True
+
+palantir/blueprint,{'totalCount': 16701},{'totalCount': 1731},False
+
+defunkt/jquery-pjax,{'totalCount': 16687},{'totalCount': 81},True
+
+onevcat/Kingfisher,{'totalCount': 16687},{'totalCount': 434},True
+
+wuyouzhuguli/SpringAll,{'totalCount': 16685},{'totalCount': 1},True
+
+graphql/graphql-js,{'totalCount': 16675},{'totalCount': 1638},True
+
+sebastianruder/NLP-progress,{'totalCount': 16670},{'totalCount': 359},True
+
+facebook/hhvm,{'totalCount': 16656},{'totalCount': 88},True
+
+halo-dev/halo,{'totalCount': 16637},{'totalCount': 240},True
+
+wekan/wekan,{'totalCount': 16631},{'totalCount': 560},True
+
+adobe-fonts/source-code-pro,{'totalCount': 16618},{'totalCount': 42},True
+
+angular/material,{'totalCount': 16613},{'totalCount': 863},False
+
+uglide/RedisDesktopManager,{'totalCount': 16598},{'totalCount': 279},True
+
+InterviewMap/CS-Interview-Knowledge-Map,{'totalCount': 16536},{'totalCount': 60},True
+
+sebastianbergmann/phpunit,{'totalCount': 16535},{'totalCount': 689},False
+
+Micropoor/Micro8,{'totalCount': 16528},{'totalCount': 2},True
+
+swisskyrepo/PayloadsAllTheThings,{'totalCount': 16516},{'totalCount': 175},True
+
+wenyan-lang/wenyan,{'totalCount': 16501},{'totalCount': 160},True
+
+judasn/IntelliJ-IDEA-Tutorial,{'totalCount': 16500},{'totalCount': 37},True
+
+wangzheng0822/algo,{'totalCount': 16493},{'totalCount': 321},True
+
+microsoft/playwright,{'totalCount': 16460},{'totalCount': 2629},False
+
+vercel/pkg,{'totalCount': 16448},{'totalCount': 49},False
+
+less/less.js,{'totalCount': 16419},{'totalCount': 423},False
+
+facebook/fresco,{'totalCount': 16309},{'totalCount': 81},True
+
+google/ExoPlayer,{'totalCount': 16302},{'totalCount': 447},True
+
+js-cookie/js-cookie,{'totalCount': 16292},{'totalCount': 51},False
+
+uikit/uikit,{'totalCount': 16253},{'totalCount': 190},True
+
+validatorjs/validator.js,{'totalCount': 16248},{'totalCount': 453},False
+
+notable/notable,{'totalCount': 16218},{'totalCount': 25},False
+
+microsoft/api-guidelines,{'totalCount': 16194},{'totalCount': 70},True
+
+quasarframework/quasar,{'totalCount': 16193},{'totalCount': 2265},False
+
+jesseduffield/lazydocker,{'totalCount': 16177},{'totalCount': 79},True
+
+twitter/typeahead.js,{'totalCount': 16151},{'totalCount': 106},False
+
+JacksonTian/fks,{'totalCount': 16138},{'totalCount': 81},True
+
+jenkinsci/jenkins,{'totalCount': 16122},{'totalCount': 3519},True
+
+reactnativecn/react-native-guide,{'totalCount': 16093},{'totalCount': 48},True
+
+StevenBlack/hosts,{'totalCount': 16080},{'totalCount': 317},True
+
+eggjs/egg,{'totalCount': 16074},{'totalCount': 937},False
+
+winstonjs/winston,{'totalCount': 16060},{'totalCount': 361},False
+
+mojs/mojs,{'totalCount': 16043},{'totalCount': 38},True
+
+ElemeFE/mint-ui,{'totalCount': 16036},{'totalCount': 297},True
+
+swoole/swoole-src,{'totalCount': 16034},{'totalCount': 920},True
+
+HelloZeroNet/ZeroNet,{'totalCount': 16032},{'totalCount': 376},True
+
+datasciencemasters/go,{'totalCount': 16021},{'totalCount': 43},True
+
+nosir/cleave.js,{'totalCount': 16019},{'totalCount': 132},True
+
+portainer/portainer,{'totalCount': 15981},{'totalCount': 1217},True
+
+sirupsen/logrus,{'totalCount': 15964},{'totalCount': 369},True
+
+google/flexbox-layout,{'totalCount': 15961},{'totalCount': 244},True
+
+v8/v8,{'totalCount': 15960},{'totalCount': 0},True
+
+jtoy/awesome-tensorflow,{'totalCount': 15950},{'totalCount': 107},True
+
+alsotang/node-lessons,{'totalCount': 15916},{'totalCount': 26},True
+
+1c7/chinese-independent-developer,{'totalCount': 15912},{'totalCount': 93},True
+
+ChristosChristofidis/awesome-deep-learning,{'totalCount': 15826},{'totalCount': 124},True
+
+mysqljs/mysql,{'totalCount': 15817},{'totalCount': 108},False
+
+libuv/libuv,{'totalCount': 15817},{'totalCount': 455},False
+
+Kotlin/anko,{'totalCount': 15807},{'totalCount': 100},True
+
+FelisCatus/SwitchyOmega,{'totalCount': 15792},{'totalCount': 7},True
+
+tqdm/tqdm,{'totalCount': 15789},{'totalCount': 207},True
+
+celery/celery,{'totalCount': 15787},{'totalCount': 1321},False
+
+MLEveryday/100-Days-Of-ML-Code,{'totalCount': 15749},{'totalCount': 43},True
+
+GitSquared/edex-ui,{'totalCount': 15746},{'totalCount': 348},True
+
+popperjs/popper-core,{'totalCount': 15744},{'totalCount': 398},True
+
+0xd4d/dnSpy,{'totalCount': 15737},{'totalCount': 51},True
+
+fastify/fastify,{'totalCount': 15729},{'totalCount': 1294},True
+
+jdg/MBProgressHUD,{'totalCount': 15709},{'totalCount': 96},True
+
+framework7io/framework7,{'totalCount': 15698},{'totalCount': 377},True
+
+electron-react-boilerplate/electron-react-boilerplate,{'totalCount': 15694},{'totalCount': 649},False
+
+android/plaid,{'totalCount': 15680},{'totalCount': 368},False
+
+alibaba/canal,{'totalCount': 15680},{'totalCount': 321},False
+
+sideway/joi,{'totalCount': 15659},{'totalCount': 366},True
+
+phoenixframework/phoenix,{'totalCount': 15638},{'totalCount': 1604},True
+
+hubotio/hubot,{'totalCount': 15635},{'totalCount': 508},True
+
+dwmkerr/hacker-laws,{'totalCount': 15634},{'totalCount': 138},True
+
+vuejs/vue-next,{'totalCount': 15620},{'totalCount': 942},False
+
+magenta/magenta,{'totalCount': 15616},{'totalCount': 906},False
+
+jashkenas/coffeescript,{'totalCount': 15613},{'totalCount': 851},True
+
+alibaba/ice,{'totalCount': 15602},{'totalCount': 1839},True
+
+shuzheng/zheng,{'totalCount': 15593},{'totalCount': 10},True
+
+facebook/folly,{'totalCount': 15582},{'totalCount': 3},True
+
+n0shake/Public-APIs,{'totalCount': 15571},{'totalCount': 267},True
+
+alibaba/spring-cloud-alibaba,{'totalCount': 15551},{'totalCount': 413},True
+
+xuxueli/xxl-job,{'totalCount': 15542},{'totalCount': 81},True
+
+handlebars-lang/handlebars.js,{'totalCount': 15538},{'totalCount': 301},True
+
+fish-shell/fish-shell,{'totalCount': 15533},{'totalCount': 990},True
+
+PHPMailer/PHPMailer,{'totalCount': 15527},{'totalCount': 265},True
+
+looly/hutool,{'totalCount': 15516},{'totalCount': 99},True
+
+didi/DoraemonKit,{'totalCount': 15515},{'totalCount': 202},True
+
+reddit-archive/reddit,{'totalCount': 15471},{'totalCount': 18},True
+
+basecamp/trix,{'totalCount': 15471},{'totalCount': 110},True
+
+viraptor/reverse-interview,{'totalCount': 15459},{'totalCount': 47},True
+
+gto76/python-cheatsheet,{'totalCount': 15444},{'totalCount': 12},True
+
+streamich/react-use,{'totalCount': 15432},{'totalCount': 981},True
+
+homebridge/homebridge,{'totalCount': 15429},{'totalCount': 272},True
+
+jamiebuilds/react-loadable,{'totalCount': 15411},{'totalCount': 105},True
+
+iissnan/hexo-theme-next,{'totalCount': 15410},{'totalCount': 274},True
+
+microsoft/MS-DOS,{'totalCount': 15403},{'totalCount': 34},True
+
+rubocop-hq/ruby-style-guide,{'totalCount': 15395},{'totalCount': 337},True
+
+tsenart/vegeta,{'totalCount': 15383},{'totalCount': 129},True
+
+nuysoft/Mock,{'totalCount': 15381},{'totalCount': 7},True
+
+bazelbuild/bazel,{'totalCount': 15347},{'totalCount': 23},False
+
+visionmedia/superagent,{'totalCount': 15320},{'totalCount': 403},True
+
+statsd/statsd,{'totalCount': 15318},{'totalCount': 299},True
+
+Eugeny/terminus,{'totalCount': 15311},{'totalCount': 724},True
+
+Tencent/tinker,{'totalCount': 15309},{'totalCount': 65},True
+
+ruanyf/react-demos,{'totalCount': 15293},{'totalCount': 19},True
+
+reduxjs/redux-thunk,{'totalCount': 15271},{'totalCount': 48},False
+
+sindresorhus/quick-look-plugins,{'totalCount': 15215},{'totalCount': 22},False
+
+dotnet-architecture/eShopOnContainers,{'totalCount': 15202},{'totalCount': 314},True
+
+Developer-Y/cs-video-courses,{'totalCount': 15198},{'totalCount': 69},True
+
+nostalgic-css/NES.css,{'totalCount': 15188},{'totalCount': 214},True
+
+ipader/SwiftGuide,{'totalCount': 15176},{'totalCount': 25},True
+
+rancher/rancher,{'totalCount': 15171},{'totalCount': 4547},True
+
+enyo/dropzone,{'totalCount': 15160},{'totalCount': 68},True
+
+google/eng-practices,{'totalCount': 15160},{'totalCount': 8},True
+
+Awesome-HarmonyOS/HarmonyOS,{'totalCount': 15151},{'totalCount': 13},True
+
+crystal-lang/crystal,{'totalCount': 15150},{'totalCount': 3291},True
+
+mxgmn/WaveFunctionCollapse,{'totalCount': 15149},{'totalCount': 17},True
+
+bower/bower,{'totalCount': 15135},{'totalCount': 341},False
+
+mozilla/DeepSpeech,{'totalCount': 15133},{'totalCount': 1226},True
+
+dennybritz/reinforcement-learning,{'totalCount': 15123},{'totalCount': 58},True
+
+iview/iview-admin,{'totalCount': 15114},{'totalCount': 90},True
+
+dvajs/dva,{'totalCount': 15096},{'totalCount': 195},False
+
+chalk/chalk,{'totalCount': 15079},{'totalCount': 77},False
+
+jeromeetienne/AR.js,{'totalCount': 15063},{'totalCount': 77},True
+
+docsifyjs/docsify,{'totalCount': 15057},{'totalCount': 362},True
+
+PKUanonym/REKCARC-TSC-UHT,{'totalCount': 15057},{'totalCount': 55},True
+
+google/flatbuffers,{'totalCount': 15034},{'totalCount': 926},False
+
+libra/libra,{'totalCount': 15030},{'totalCount': 927},False
+
+dbeaver/dbeaver,{'totalCount': 15006},{'totalCount': 802},True
+
+zhangdaiscott/jeecg-boot,{'totalCount': 14996},{'totalCount': 7},True
+
+chaozh/awesome-blockchain-cn,{'totalCount': 14989},{'totalCount': 7},True
+
+eligrey/FileSaver.js,{'totalCount': 14983},{'totalCount': 65},True
+
+shieldfy/API-Security-Checklist,{'totalCount': 14978},{'totalCount': 91},True
+
+zyedidia/micro,{'totalCount': 14961},{'totalCount': 431},True
+
+HubSpot/pace,{'totalCount': 14942},{'totalCount': 28},True
+
+jasmine/jasmine,{'totalCount': 14927},{'totalCount': 279},True
+
+youzan/vant,{'totalCount': 14926},{'totalCount': 2553},False
+
+facebook/relay,{'totalCount': 14925},{'totalCount': 107},True
+
+sharkdp/fd,{'totalCount': 14910},{'totalCount': 197},False
+
+joewalnes/websocketd,{'totalCount': 14894},{'totalCount': 83},True
+
+desandro/masonry,{'totalCount': 14879},{'totalCount': 10},True
+
+forem/forem,{'totalCount': 14870},{'totalCount': 6231},False
+
+datawhalechina/pumpkin-book,{'totalCount': 14870},{'totalCount': 43},True
+
+material-components/material-components-web,{'totalCount': 14868},{'totalCount': 3085},False
+
+kriskowal/q,{'totalCount': 14862},{'totalCount': 149},True
+
+CarGuo/GSYVideoPlayer,{'totalCount': 14861},{'totalCount': 13},True
+
+zziz/pwc,{'totalCount': 14854},{'totalCount': 10},True
+
+wagerfield/parallax,{'totalCount': 14853},{'totalCount': 14},True
+
+instillai/TensorFlow-Course,{'totalCount': 14850},{'totalCount': 7},True
+
+numpy/numpy,{'totalCount': 14850},{'totalCount': 6613},True
+
+cjbarber/ToolsOfTheTrade,{'totalCount': 14845},{'totalCount': 291},True
+
+elastic/kibana,{'totalCount': 14834},{'totalCount': 44452},False
+
+websockets/ws,{'totalCount': 14817},{'totalCount': 446},False
+
+leereilly/games,{'totalCount': 14814},{'totalCount': 192},True
+
+madrobby/zepto,{'totalCount': 14812},{'totalCount': 218},True
+
+recharts/recharts,{'totalCount': 14812},{'totalCount': 258},True
+
+PostgREST/postgrest,{'totalCount': 14809},{'totalCount': 494},True
+
+keystonejs/keystone-classic,{'totalCount': 14808},{'totalCount': 1740},True
+
+Tencent/mars,{'totalCount': 14805},{'totalCount': 49},True
+
+adam-golab/react-developer-roadmap,{'totalCount': 14786},{'totalCount': 26},True
+
+designmodo/Flat-UI,{'totalCount': 14783},{'totalCount': 38},True
+
+DrKLO/Telegram,{'totalCount': 14779},{'totalCount': 17},True
+
+svg/svgo,{'totalCount': 14768},{'totalCount': 200},True
+
+ionic-team/ionicons,{'totalCount': 14746},{'totalCount': 42},True
+
+yabwe/medium-editor,{'totalCount': 14744},{'totalCount': 516},True
+
+zsh-users/zsh-autosuggestions,{'totalCount': 14733},{'totalCount': 100},True
+
+oxford-cs-deepnlp-2017/lectures,{'totalCount': 14733},{'totalCount': 4},True
+
+sherlock-project/sherlock,{'totalCount': 14722},{'totalCount': 303},True
+
+apollographql/apollo-client,{'totalCount': 14689},{'totalCount': 3007},True
+
+briannesbitt/Carbon,{'totalCount': 14676},{'totalCount': 926},True
+
+AllThingsSmitty/css-protips,{'totalCount': 14669},{'totalCount': 43},True
+
+jsdom/jsdom,{'totalCount': 14664},{'totalCount': 690},False
+
+envoyproxy/envoy,{'totalCount': 14658},{'totalCount': 7325},False
+
+cocos2d/cocos2d-x,{'totalCount': 14644},{'totalCount': 12325},True
+
+limetext/lime,{'totalCount': 14632},{'totalCount': 160},True
+
+nswbmw/N-blog,{'totalCount': 14627},{'totalCount': 25},True
+
+apache/skywalking,{'totalCount': 14620},{'totalCount': 2373},False
+
+SpaceVim/SpaceVim,{'totalCount': 14620},{'totalCount': 1789},False
+
+angular-ui/bootstrap,{'totalCount': 14604},{'totalCount': 69},False
+
+ccxt/ccxt,{'totalCount': 14601},{'totalCount': 2315},True
+
+acdlite/recompose,{'totalCount': 14597},{'totalCount': 246},True
+
+charlax/professional-programming,{'totalCount': 14593},{'totalCount': 20},True
+
+binux/pyspider,{'totalCount': 14571},{'totalCount': 90},True
+
+go-delve/delve,{'totalCount': 14565},{'totalCount': 797},False
+
+spf13/spf13-vim,{'totalCount': 14562},{'totalCount': 256},True
+
+altercation/solarized,{'totalCount': 14552},{'totalCount': 21},True
+
+hackiftekhar/IQKeyboardManager,{'totalCount': 14547},{'totalCount': 99},True
+
+Shopify/draggable,{'totalCount': 14535},{'totalCount': 114},True
+
+vadimdemedes/ink,{'totalCount': 14522},{'totalCount': 137},False
+
+airbnb/react-sketchapp,{'totalCount': 14520},{'totalCount': 189},True
+
+rough-stuff/rough,{'totalCount': 14502},{'totalCount': 48},True
+
+pubkey/rxdb,{'totalCount': 14489},{'totalCount': 1835},True
+
+infernojs/inferno,{'totalCount': 14483},{'totalCount': 531},False
+
+android10/Android-CleanArchitecture,{'totalCount': 14482},{'totalCount': 13},True
+
+kdeldycke/awesome-falsehood,{'totalCount': 14479},{'totalCount': 33},True
+
+hzlzh/Best-App,{'totalCount': 14478},{'totalCount': 49},True
+
+urfave/cli,{'totalCount': 14464},{'totalCount': 471},True
+
+huihut/interview,{'totalCount': 14449},{'totalCount': 26},True
+
+Kong/insomnia,{'totalCount': 14439},{'totalCount': 622},False
+
+Awesome-Windows/Awesome,{'totalCount': 14430},{'totalCount': 204},True
+
+trekhleb/homemade-machine-learning,{'totalCount': 14418},{'totalCount': 2},True
+
+twbs/ratchet,{'totalCount': 14415},{'totalCount': 231},True
+
+yudai/gotty,{'totalCount': 14414},{'totalCount': 33},True
+
+ipython/ipython,{'totalCount': 14380},{'totalCount': 5076},True
+
+dotnet/core,{'totalCount': 14377},{'totalCount': 1088},True
+
+helm/charts,{'totalCount': 14351},{'totalCount': 12884},False
+
+hwdsl2/setup-ipsec-vpn,{'totalCount': 14296},{'totalCount': 12},True
+
+react-dnd/react-dnd,{'totalCount': 14290},{'totalCount': 1246},True
+
+riot/riot,{'totalCount': 14288},{'totalCount': 439},True
+
+braydie/HowToBeAProgrammer,{'totalCount': 14288},{'totalCount': 84},True
+
+redisson/redisson,{'totalCount': 14274},{'totalCount': 236},True
+
+WordPress/WordPress,{'totalCount': 14273},{'totalCount': 0},True
+
+tj/git-extras,{'totalCount': 14248},{'totalCount': 438},True
+
+mybatis/mybatis-3,{'totalCount': 14247},{'totalCount': 667},True
+
+2dust/v2rayN,{'totalCount': 14245},{'totalCount': 33},True
+
+luong-komorebi/Awesome-Linux-Software,{'totalCount': 14235},{'totalCount': 376},True
+
+electronicarts/CnC_Remastered_Collection,{'totalCount': 14234},{'totalCount': 0},True
+
+dianping/cat,{'totalCount': 14234},{'totalCount': 864},False
+
+GeekyAnts/NativeBase,{'totalCount': 14231},{'totalCount': 479},True
+
+vim-airline/vim-airline,{'totalCount': 14211},{'totalCount': 548},True
+
+micro/go-micro,{'totalCount': 14204},{'totalCount': 1120},False
+
+handsontable/handsontable,{'totalCount': 14197},{'totalCount': 599},False
+
+linlinjava/litemall,{'totalCount': 14193},{'totalCount': 73},True
+
+getlantern/download,{'totalCount': 14178},{'totalCount': 3},True
+
+toml-lang/toml,{'totalCount': 14154},{'totalCount': 291},True
+
+facebook/prepack,{'totalCount': 14152},{'totalCount': 500},True
+
+rancher/k3s,{'totalCount': 14151},{'totalCount': 652},True
+
+forezp/SpringCloudLearning,{'totalCount': 14137},{'totalCount': 0},True
+
+apache/flink,{'totalCount': 14134},{'totalCount': 2961},False
+
+academic/awesome-datascience,{'totalCount': 14110},{'totalCount': 158},True
+
+menzi11/BullshitGenerator,{'totalCount': 14107},{'totalCount': 7},True
+
+pytorch/examples,{'totalCount': 14105},{'totalCount': 251},True
+
+aFarkas/lazysizes,{'totalCount': 14103},{'totalCount': 60},True
+
+preservim/nerdtree,{'totalCount': 14098},{'totalCount': 272},True
+
+deezer/spleeter,{'totalCount': 14092},{'totalCount': 31},True
+
+marmelab/react-admin,{'totalCount': 14090},{'totalCount': 2145},True
+
+alibaba/nacos,{'totalCount': 14089},{'totalCount': 762},True
+
+huge-success/sanic,{'totalCount': 14086},{'totalCount': 821},True
+
+janl/mustache.js,{'totalCount': 14085},{'totalCount': 155},True
+
+realm/realm-cocoa,{'totalCount': 14066},{'totalCount': 2134},True
+
+css-modules/css-modules,{'totalCount': 14061},{'totalCount': 22},True
+
+philc/vimium,{'totalCount': 14054},{'totalCount': 573},False
+
+react-hook-form/react-hook-form,{'totalCount': 14044},{'totalCount': 817},False
+
+norvig/pytudes,{'totalCount': 13983},{'totalCount': 44},True
+
+bitcoinbook/bitcoinbook,{'totalCount': 13976},{'totalCount': 265},True
+
+bokeh/bokeh,{'totalCount': 13967},{'totalCount': 3779},True
+
+dgraph-io/dgraph,{'totalCount': 13954},{'totalCount': 2805},False
+
+typicode/lowdb,{'totalCount': 13940},{'totalCount': 60},True
+
+nfl/react-helmet,{'totalCount': 13933},{'totalCount': 166},False
+
+fbsamples/f8app,{'totalCount': 13903},{'totalCount': 43},True
+
+wangshub/wechat_jump_game,{'totalCount': 13892},{'totalCount': 146},True
+
+Carthage/Carthage,{'totalCount': 13891},{'totalCount': 930},True
+
+tensorflow/tfjs,{'totalCount': 13890},{'totalCount': 1284},False
+
+michalsnik/aos,{'totalCount': 13889},{'totalCount': 38},True
+
+processing/p5.js,{'totalCount': 13889},{'totalCount': 1647},True
+
+jumpserver/jumpserver,{'totalCount': 13882},{'totalCount': 1606},True
+
+fivethirtyeight/data,{'totalCount': 13882},{'totalCount': 42},True
+
+oblador/react-native-vector-icons,{'totalCount': 13873},{'totalCount': 144},True
+
+ehang-io/nps,{'totalCount': 13853},{'totalCount': 62},True
+
+yaronn/blessed-contrib,{'totalCount': 13848},{'totalCount': 64},True
+
+DIYgod/RSSHub,{'totalCount': 13847},{'totalCount': 3001},True
+
+realm/SwiftLint,{'totalCount': 13845},{'totalCount': 1250},True
+
+haoel/leetcode,{'totalCount': 13828},{'totalCount': 76},True
+
+angular-ui/ui-router,{'totalCount': 13816},{'totalCount': 308},True
+
+facert/awesome-spider,{'totalCount': 13796},{'totalCount': 37},True
+
+PerfectlySoft/Perfect,{'totalCount': 13795},{'totalCount': 74},True
+
+openssl/openssl,{'totalCount': 13788},{'totalCount': 83},False
+
+locustio/locust,{'totalCount': 13785},{'totalCount': 354},True
+
+ShareX/ShareX,{'totalCount': 13785},{'totalCount': 598},True
+
+ampproject/amphtml,{'totalCount': 13782},{'totalCount': 15286},False
+
+apache/incubator-weex,{'totalCount': 13770},{'totalCount': 1700},True
+
+cool-RR/PySnooper,{'totalCount': 13761},{'totalCount': 61},True
+
+jitsi/jitsi-meet,{'totalCount': 13759},{'totalCount': 3148},True
+
+winterbe/java8-tutorial,{'totalCount': 13756},{'totalCount': 10},True
+
+hemanth/functional-programming-jargon,{'totalCount': 13753},{'totalCount': 111},True
+
+MengTo/Spring,{'totalCount': 13729},{'totalCount': 60},True
+
+nginx-proxy/nginx-proxy,{'totalCount': 13725},{'totalCount': 176},True
+
+brettwooldridge/HikariCP,{'totalCount': 13717},{'totalCount': 183},True
+
+LingCoder/OnJava8,{'totalCount': 13714},{'totalCount': 396},True
+
+spotify/luigi,{'totalCount': 13713},{'totalCount': 1709},True
+
+alibaba/Sentinel,{'totalCount': 13703},{'totalCount': 334},True

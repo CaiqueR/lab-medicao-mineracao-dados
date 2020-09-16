@@ -26,7 +26,7 @@ async function resposta5() {
         query getRepos($nextPage: String) {
           search(
             type: REPOSITORY
-            query: "stars:>10000"
+            query: "stars:>1000"
             first: 100
             after: $nextPage
           ) {
@@ -43,7 +43,7 @@ async function resposta5() {
                   }
                   languages(
                     orderBy: { field: SIZE, direction: DESC }
-                    first: 1
+                    first: 2
                   ) {
                     totalSize
                     totalCount
@@ -75,7 +75,11 @@ async function resposta5() {
       hasPageToContinue = false;
     }
 
-    repos = [...repos, ...edges];
+    const filtered = edges.filter(
+      (value) => value.node.languages.edges.length > 0
+    );
+
+    repos = [...repos, ...filtered];
   }
 
   converter.json2csv(repos, (err, csv) => {
@@ -85,6 +89,7 @@ async function resposta5() {
 
     fs.writeFileSync("resposta5.csv", csv);
   });
+
   return "resposta5.csv gerado na raíz do projeto";
 }
 
