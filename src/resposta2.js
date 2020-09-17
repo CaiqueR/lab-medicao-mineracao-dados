@@ -21,7 +21,7 @@ async function resposta2() {
   const variables = {
     nextPage: null,
   };
-  while (hasPageToContinue && repos.length < 100) {
+  while (hasPageToContinue && repos.length < 1000) {
     const data = await graphQLClient.request(
       gql`
         query getRepos($nextPage: String) {

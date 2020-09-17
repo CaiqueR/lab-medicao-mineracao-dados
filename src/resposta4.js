@@ -21,14 +21,14 @@ async function resposta4() {
   const variables = {
     nextPage: null,
   };
-  while (hasPageToContinue && repos.length < 50) {
+  while (hasPageToContinue && repos.length < 1000) {
     const data = await graphQLClient.request(
       gql`
         query getRepos($nextPage: String) {
           search(
             type: REPOSITORY
             query: "stars:>10000"
-            first: 50
+            first: 100
             after: $nextPage
           ) {
             pageInfo {
