@@ -74,7 +74,7 @@ async function resposta2() {
       throw err;
     }
 
-    fs.writeFileSync("resposta3.csv", csv);
+    fs.writeFileSync("./csv/resposta3.csv", csv);
   });
   return "resposta3.csv gerado na raíz do projeto";
 }
